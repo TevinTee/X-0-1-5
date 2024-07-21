@@ -1,0 +1,21 @@
+.home {
+    background-color: rgb(78, 76, 76);
+    color: rgb(255, 255, 255);
+    font-family: Impact;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 700px;
+    border: 2px solid rgb(124, 121, 121);
+    /* background-image: url("/home/tevin-tee-shezi/Tevin Tee Shezi/Projects/X-0-1-5/Images/my villa.jpeg") */
+}
+
+h1 {
+   display: inline;
+   font-size: 50px;
+}
+
+body {
+    background-color: #1b1b32;
+    /* background-image: url("/home/tevin-tee-shezi/Tevin Tee Shezi/Projects/X-0-1-5/Images/logo.jpeg"); */
+}
